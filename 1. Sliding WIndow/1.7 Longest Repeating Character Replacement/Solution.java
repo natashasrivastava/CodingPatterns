@@ -1,3 +1,5 @@
+// Check my solution for Help https://leetcode.com/problems/longest-repeating-character-replacement/solutions/2734756/sliding-window/
+
 class Solution {
     public int characterReplacement(String s, int k) {
         int windowStart = 0;
