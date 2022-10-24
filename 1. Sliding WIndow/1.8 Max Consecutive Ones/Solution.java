@@ -1,3 +1,5 @@
+// Check my solution on https://leetcode.com/problems/max-consecutive-ones-iii/solutions/2735639/sliding-window/
+
 class Solution {
     public int longestOnes(int[] nums, int k) {
         int windowStart = 0;
