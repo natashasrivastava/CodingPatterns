@@ -13,3 +13,5 @@ Write a function to return the maximum number of fruits in both the baskets.
 
 
 Try Solving on Leetcode https://leetcode.com/problems/fruit-into-baskets/
+
+Check my Solution https://leetcode.com/problems/fruit-into-baskets/solutions/2707619/sliding-window-in-java/
