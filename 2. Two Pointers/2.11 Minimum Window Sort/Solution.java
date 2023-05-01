@@ -3,7 +3,7 @@
 // sorting the subarray between these two numbers result in the whole array being sorted
 
 //1. From the beginning and end of the array, find the first elements that are out of the sorting order. The two elements will be our candidate subarray.
-//2.Find the maximum and minimum of this subarray.
+//2. Find the maximum and minimum of this subarray.
 //3. Extend the subarray from beginning to include any number which is bigger than the minimum of the subarray.
 //4. Similarly, extend the subarray from the end to include any number which is smaller than the maximum of the subarray.
 
